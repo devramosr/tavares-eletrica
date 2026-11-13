@@ -1,6 +1,6 @@
 # Tavares Elétrica: cartão de visita digital (modelo)
 
-Modelo de **cartão de visita digital** para profissional autônomo (aqui, um eletricista), feito para o portfólio do projeto *Becky's Workplace*. Nome, telefone, preços e depoimentos são **fictícios**.
+Modelo de **cartão de visita digital** para profissional autônomo (aqui, um eletricista). Nome, telefone, preços e depoimentos são **fictícios**.
 
 ![Desktop](docs/screenshot-desktop.png)
 
